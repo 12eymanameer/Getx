@@ -9,8 +9,3 @@ This Flutter project demonstrates the use of GetX for state management, routing,
 - **Google Fonts Integration:** Enhanced typography with Google Fonts.
 
 
-### Screenshots
-![image](https://github.com/user-attachments/assets/bd439c67-b9ef-46d4-a10e-4789c26bf6e4)
-![image](https://github.com/user-attachments/assets/ad57b1ae-2441-4e16-95e0-597b9a47fd48)
-![image](https://github.com/user-attachments/assets/3e588b11-f36c-4b40-9600-6fe65b9d13d8)
-![image](https://github.com/user-attachments/assets/a95d18a9-efba-4f20-af5b-86c064bc4792)
